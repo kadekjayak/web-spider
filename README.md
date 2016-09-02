@@ -15,6 +15,6 @@ the basic example to get all links from a website
 
 	use Kadekjayak\WebSpider;
 	$Spider = new WebSpider();
-	$Links = $Spider->scan('http://example.com', $depth = 2);
+	$Links = $Spider->scrape('http://example.com', $depth = 2);
 	print_r($Links);
 
