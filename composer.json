@@ -1,0 +1,11 @@
+{
+    "name": "kadejayak/web-spider",
+    "description": "Simple Website spider tools, to get all links on web pages",
+    "authors": [
+        {
+            "name": "kadekjayak",
+            "email": "kadekjayak@yahoo.co.id"
+        }
+    ],
+    "require": {}
+}
